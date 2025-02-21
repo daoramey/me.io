@@ -1,0 +1,9 @@
+title: "Chenyao Diao"
+description: "Research Engineer | Computer Vision | Social VR"
+theme: minimal-mistakes-jekyll
+baseurl: ""
+url: "https://your-username.github.io"
+logo: "/assets/images/profile.jpg"
+google_scholar: "https://scholar.google.com/citations?user=your-id"
+github_username: "your-username"
+show_downloads: true
