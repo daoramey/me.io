@@ -1,9 +1,90 @@
-title: "Chenyao Diao"
-description: "Research Engineer | Computer Vision | Social VR"
-theme: minimal-mistakes-jekyll
-baseurl: ""
-url: "https://your-username.github.io"
-logo: "/assets/images/profile.jpg"
-google_scholar: "https://scholar.google.com/citations?user=your-id"
-github_username: "your-username"
-show_downloads: true
+# Site Settings
+locale: "en-US"
+title: "📌 Personal home page"
+description: ""
+url: "https://daoramey.github.io/chenyao.github.io/"  # 你的 GitHub Pages URL
+baseurl: ""  # 如果你的站点在子目录中，填写子目录路径（例如 "/blog"）
+logo: ""  # 如果你有 logo，可以放在 assets/images 文件夹中
+google_scholar: ""  # 你的 Google Scholar 链接（如果有）
+github_username: "daoramey"  # 你的 GitHub 用户名
+show_downloads: false  # 是否显示下载按钮（通常用于文档站点）
+
+# Author Settings
+author:
+  name: "Chenyao Diao"
+  email: ""
+  bio: "Research Engineer specializing in Computer Vision and Human-Computer Interaction."
+  avatar: "/assets/images/bio-photo.jpeg"  # 你的头像图片路径
+  links:
+    - label: "Google Scholar"
+      icon: "fab fa-google-scholar"
+      url: "https://scholar.google.com/citations?user=7sSXIWcAAAAJ"
+    - label: "ORCID"
+      icon: "fab fa-orcid"
+      url: "https://orcid.org/0000-0002-1862-3172"  # Replace with your actual ORCID URL
+    - label: "GitHub"
+      icon: "fab fa-github"
+      url: "https://github.com/daoramey"
+
+# Plugins (previously gems:)
+plugins:
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-gist
+  - jekyll-feed
+  - jekyll-include-cache
+  
+# Remote Theme
+# theme : "minimal-mistakes-jekyll"
+remote_theme    : "mmistakes/minimal-mistakes"
+minimal_mistakes_skin   : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+
+# Defaults
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: "single"
+      author_profile: true
+      read_time: true
+  - scope:
+      path: "_pages"  # 如果你有自定义页面文件夹
+    values:
+      layout: "single"
+
+# Include additional folders
+include:
+  - _pages  # Ensure Jekyll processes the _pages folder
+  
+# Navigation
+navigation:
+  - title: "Home"
+    url: "/"
+  - title: "About"
+    url: "/_pages/about/"
+  - title: "Projects"
+    url: "/_pages/projects/"
+  - title: "CV"
+    url: "/_pages/cv/"
+  - title: "Publications"
+    url: "/_pages/publications/"
+  - title: "Contact"
+    url: "/_pages/contact/"
+
+# Pagination (Optional)
+paginate: 5  # 每页显示的文章数量
+paginate_path: "/blog/page:num/"
+
+# Sass Settings
+sass:
+  sass_dir: _sass
+  style: compressed
+
+# Exclude files/folders from processing
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor
+  - .git
+  - .gitignore
