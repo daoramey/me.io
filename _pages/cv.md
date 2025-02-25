@@ -44,8 +44,8 @@ title: CV
 
 ## Publications & Projects
 
-For a detailed list of my publications and projects, please visit the [Publications](/_pages/publications) and [Projects](/_pages/projects) sections of my website.
+For a detailed list of my publications and projects, please visit the [Publications]({{ site.baseurl }}/publications) and [Projects]({{ site.baseurl }}/projects) sections of my website.
 
 ---
 
-**Download my CV here:** [CV.pdf](/assets/pdfs/CV.pdf)
+**Download my CV here:** [CV.pdf]({{ site.baseurl }}/assets/pdfs/CV.pdf)

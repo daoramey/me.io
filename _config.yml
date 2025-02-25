@@ -2,8 +2,8 @@
 locale: "en-US"
 title: "📌 Personal home page"
 description: ""
-url: "https://daoramey.github.io/chenyao.github.io/"  # 你的 GitHub Pages URL
-baseurl: ""  # 如果你的站点在子目录中，填写子目录路径（例如 "/blog"）
+url: "https://daoramey.github.io/"  # 你的 GitHub Pages URL
+baseurl: "/me.io"  # 如果你的站点在子目录中，填写子目录路径（例如 "/blog"）
 logo: ""  # 如果你有 logo，可以放在 assets/images 文件夹中
 google_scholar: ""  # 你的 Google Scholar 链接（如果有）
 github_username: "daoramey"  # 你的 GitHub 用户名
@@ -52,24 +52,28 @@ defaults:
     values:
       layout: "single"
 
-# Include additional folders
-include:
-  - _pages  # Ensure Jekyll processes the _pages folder
-  
+
+# Outputting
+collections:
+  pages:
+    output: true
+    permalink: /:title/
+
+permalink: /:title/
+timezone: UTC
+
 # Navigation
 navigation:
   - title: "Home"
-    url: "/"
+    url: "{{ site.baseurl }}/"
   - title: "About"
-    url: "/_pages/about/"
+    url: "/about/"
   - title: "Projects"
-    url: "/_pages/projects/"
+    url: "{{ site.baseurl }}/projects/"
   - title: "CV"
-    url: "/_pages/cv/"
+    url: "{{ site.baseurl }}/cv/"
   - title: "Publications"
-    url: "/_pages/publications/"
-  - title: "Contact"
-    url: "/_pages/contact/"
+    url: "{{ site.baseurl }}/publications/"
 
 # Pagination (Optional)
 paginate: 5  # 每页显示的文章数量

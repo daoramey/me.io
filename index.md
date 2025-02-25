@@ -2,6 +2,7 @@
 layout: single
 title: "Welcome!"
 author_profile: true
+premalink: "{{ site.baseurl }}"
 ---
 
 I'm a **research engineer** passionate about decoding non-verbal communication and enhancing remote interaction experiences. My work focuses on developing innovative prototypes that capture and analyze non-verbal social cues, while exploring the dynamics of interpersonal synchrony in both physical and virtual environments. When I'm not immersed in research, you can find me staying active on the tennis court or exploring scenic hiking trails.
@@ -34,14 +35,14 @@ I'm a **research engineer** passionate about decoding non-verbal communication a
 
 ## Quick Links
 
-- [About Me](/_pages/about/)
-- [Publications](/_pages/publications/)
-- [Projects](/_pages/projects/)
-- [CV](/_pages/cv/)
+- [About Me]({{ site.baseurl }}/about/)
+- [Publications]({{ site.baseurl }}/publications/)
+- [Projects]({{ site.baseurl }}/projects/)
+- [CV]({{ site.baseurl }}/cv/)
 
 ---
 
 ## Latest Updates
 
-- **New Project**: [Non-Verbal Communication Analysis](/_pages/projects/)
-- **Recent Publication**: [Effects of Delay on Nonverbal Behavior](/_pages/publications/)
+- **New Project**: [Non-Verbal Communication Analysis]({{ site.baseurl }}/projects/)
+- **Recent Publication**: [Effects of Delay on Nonverbal Behavior]({{ site.baseurl }}/publications/)
