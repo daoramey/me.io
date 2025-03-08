@@ -5,31 +5,7 @@ author_profile: true
 premalink: "{{ site.baseurl }}"
 ---
 
-I'm a **research engineer** passionate about decoding non-verbal communication and enhancing remote interaction experiences. My work focuses on developing innovative prototypes that capture and analyze non-verbal social cues, while exploring the dynamics of interpersonal synchrony in both physical and virtual environments. When I'm not immersed in research, you can find me staying active on the tennis court or exploring scenic hiking trails.
-
----
-
-## 🔬 Research Interests
-
-- **Non-Verbal Behavior Analysis:**  
-  Exploring the nuanced dynamics of dyadic conversations and non-verbal cues.
-- **Computer Vision:**  
-  Capturing and tracking facial expressions, body motion, and other visual signals.
-- **Quality of Experience (QoE) Models:**  
-  Evaluating and improving immersive communication systems.
-- **Social VR/AR & Telepresence:**  
-  Advancing interactive systems that foster natural, lifelike digital interactions.
-- **Avatar & Agent Realism:**  
-  Creating virtual entities with lifelike behaviors for enhanced human-agent interaction.
-
----
-
-## 📚 Education
-
-- **M.Sc. in Media Technology**  
-  TU Ilmenau, Germany
-- **B.Eng. in Informatics Engineering**  
-  Communication University of China (CUC), China
+I'm a **researcher** passionate about decoding **non-verbal communication** and enhancing **remote interaction experiences**. My work focuses on developing innovative prototypes that capture and analyze non-verbal social cues, while exploring the dynamics of interpersonal synchrony in both physical and virtual environments. When I'm not immersed in research, you can find me staying active on the tennis court or exploring scenic hiking trails.
 
 ---
 
@@ -43,6 +19,9 @@ I'm a **research engineer** passionate about decoding non-verbal communication a
 ---
 
 ## Latest Updates
-
-- **New Project**: [Non-Verbal Communication Analysis]({{ site.baseurl }}/projects/)
-- **Recent Publication**: [Effects of Delay on Nonverbal Behavior]({{ site.baseurl }}/publications/)
+- **☕️ Recent Project**: [Social Interaction with Virtual Agent]({{ site.baseurl }}/projects/)
+- **☕️ Recent Project**: [Interpersonal Coordination Analysis]({{ site.baseurl }}/projects/)
+- **🎉 New Paper**: [Nonverbal Dynamics in Dyadic Videoconferencing Interaction: The Role of Video Resolution and Conversational Quality]({{ site.baseurl }}/publications/) has been published in *Proceedings of the 26th International Conference on Multimodal Interaction (ICMI '24)*.
+- **🎉 New Paper**: [Effects of Delay on Nonverbal Behavior and Interpersonal Coordination in Videoconferencing]({{ site.baseurl }}/publications/) has been published in *IEEE 26th International Workshop on Multimedia Signal Processing (MMSP'24)*.
+- **☕️ Recent Project**: [Non-Verbal Cues Extraction]({{ site.baseurl }}/projects/)
+- **🎉 New Paper**: [An Exploratory Study on the Impact of Varying Levels of Robot Control on Presence in Robot-Mediated Communication]({{ site.baseurl }}/publications/) has been published in *IEEE International Conference on Robot and Human Interactive Communication (ROMAN'24)*.

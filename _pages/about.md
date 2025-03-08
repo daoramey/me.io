@@ -3,14 +3,14 @@ layout: single
 title: About Me
 ---
 
-Hello, I'm **Chenyao Diao**, a research engineer dedicated to harnessing advanced technologies to capture and interpret human behavior. With over 3 years of experience as a research assistant in telepresence system development, I specialize in using deep learning and computer vision to explore the subtle dynamics of non-verbal communication. My work bridges the gap between technology and human interaction—designing studies and prototypes that measure interpersonal behavioral synchrony and coordination.
+Hello, I'm **Chenyao Diao**, a research engineer dedicated to harnessing advanced technologies to capture and interpret nonverbal human behavior. With over 3 years of experience as a research assistant in telepresence system development, I specialize in using deep learning and computer vision to explore the subtle dynamics of non-verbal communication during remote interaction. My work bridges the gap between technology and human interaction—designing studies and prototypes that model nonverbal communication dynamics.
 
 ---
 
 ## 🔎 Research & Interaction Analysis
 
 - **Immersive Communication Systems:**  
-  I design and develop telepresence and immersive platforms to enhance human-avatar interactions in social VR/AR and videoconferencing settings.
+  I develop telepresence and immersive platforms to enhance human-avatar interactions in social VR/AR and videoconferencing settings.
 
 - **Quality of Experience Assessment:**  
   I design and conduct user studies that compare non-verbal behaviors under varied experimental conditions, shedding light on how system design influences natural communication.
@@ -29,16 +29,6 @@ Hello, I'm **Chenyao Diao**, a research engineer dedicated to harnessing advance
 - **Non-Verbal Behavior Analysis:** Examining the subtleties of body language, eye gaze, and facial expressions.
 - **User Interaction Quality:** Assessing and enhancing the experience of digital communication.
 - **Human-Agent Interaction:** Improving the realism and responsiveness of virtual avatars and agents.
-
----
-
-## 📚 Education
-
-- **M.Sc. in Media Technology**  
-  TU Ilmenau, Germany
-
-- **B.Eng. in Informatics Engineering**  
-  Communication University of China (CUC), China
 
 ---
 

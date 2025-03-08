@@ -16,4 +16,5 @@ This is my personal academic portfolio, built using **Jekyll** and the **Minimal
 gem install bundler jekyll  
 bundle install  
 bundle exec jekyll serve --trace  
+bundle exec jekyll clean
 ```

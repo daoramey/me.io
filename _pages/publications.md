@@ -10,7 +10,7 @@ Below is a list of my publications. Click the links to view the PDF, access data
 ## <span style="font-size:0.6em;">Nonverbal Dynamics in Dyadic Videoconferencing Interaction: The Role of Video Resolution and Conversational Quality</span> 
 <span style="font-size:0.7em;">This paper explores how video resolution and conversational quality influence nonverbal communication during videoconferencing. We analyzed webcam recordings to extract individual nonverbal cues—including body movements, facial expressions, and gaze behavior—and assessed interpersonal synchrony using windowed lagged cross-correlation. The findings reveal that higher video resolution enhances individual expressiveness but may reduce interpersonal synchrony in body movements, while better conversational quality improves facial expression mimicry.</span>  
 <span style="font-size:0.65em;">**Citation:**</span>  
-<span style="font-size:0.65em;">C. Diao, S. A. Arboleda, and A. Raake. Nonverbal Dynamics in Dyadic Videoconferencing Interaction: The Role of Video Resolution and Conversational Quality. In *Proceedings of the 26th International Conference on Multimodal Interaction (ICMI '24)*, Association for Computing Machinery, New York, NY, USA, 387–396.</span>  
+<span style="font-size:0.65em;">C. Diao, S. A. Arboleda, and A. Raake. Nonverbal Dynamics in Dyadic Videoconferencing Interaction: The Role of Video Resolution and Conversational Quality. In Proceedings of the 26th International Conference on Multimodal Interaction (ICMI '24), Association for Computing Machinery, New York, NY, USA, 387–396.</span>  
 <div style="margin-top: 10px;">
   <a href="https://doi.org/10.1145/3678957.3685733" title="DOI">
     <i class="fas fa-link"></i>
@@ -70,7 +70,7 @@ Below is a list of my publications. Click the links to view the PDF, access data
 <span style="font-size:0.65em;">**Citation:**</span>
 <span style="font-size:0.65em;">C. Diao, L. Sinani, R. R. Ramachandra Rao, and A. Raake. Revisiting Videoconferencing QoE: Impact of Network Delay and Resolution as Factors for Social Cue Perceptibility. In 2023 15th International Conference on Quality of Multimedia Experience (QoMEX), Ghent, Belgium, 2023, pp. 240-243, doi:10.1109/QoMEX58391.2023.10178483.</span>
 
-<div style="margin-top: 10px;"> <a href="https://doi.org/10.1109/QoMEX58391.2023.10178483" title="DOI"> <i class="fas fa-link"></i> </a> | <a href="{{ site.baseurl }}/assets/pdfs/publication6.pdf" title="PDF"> <i class="fas fa-file-pdf"></i> </a> | <a href="https://github.com/daoramey/Nonverbal-Cues-Analysis-Toolbox" title="Code"> <i class="fas fa-code"></i> </a> </div>
+<div style="margin-top: 10px;"> <a href="https://doi.org/10.1109/QoMEX58391.2023.10178483" title="DOI"> <i class="fas fa-link"></i> </a> | <a href="{{ site.baseurl }}/assets/pdfs/publication6.pdf" title="PDF"> <i class="fas fa-file-pdf"></i> </a> | <a href="https://github.com/daoramey/nonverbal-cues-extraction" title="Code"> <i class="fas fa-code"></i> </a> </div>
 
 ---
 

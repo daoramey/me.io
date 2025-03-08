@@ -2,22 +2,26 @@
 layout: single
 title: CV
 ---
-## Work Experience
+This is an overview of my CV. For more detailed information please
+**[Download my CV here]({{ site.baseurl }}/assets/pdfs/CV.pdf)**
+
+---
+## Professionl Experience
 
 ### Research Assistant
-**Project:** *Co-Presence of Humans and Interactive Companions for Seniors*  
+**Project:** [CO-HUMANICS](https://www.tu-ilmenau.de/forschung/forschungsaktivitaeten/institute-und-technologische-zentren/i3tc-ilmenau-interactive-immersive-technologies-center/forschung/co-humanics/page) *Co-Presence of Humans and Interactive Companions for Seniors*  
 *2021 – 2024*
 
 ### Project Co-worker
-**Project:** *Computational Model as a QoE/QoS Monitor for Video Telephony Services*  
+**Project:** [G.CMVTQS](https://ieeexplore.ieee.org/document/10211186) *Computational Model as a QoE/QoS Monitor for Video Telephony Services*  
 *2022 – 2023*
 
 ### Teaching Assistant
-**Department:** Audiovisual Technology Group, Technische Universität Ilmenau  
+**Department:** [Audiovisual Technology Group](https://www.tu-ilmenau.de/universitaet/fakultaeten/fakultaet-elektrotechnik-und-informationstechnik/profil/institute-und-fachgebiete/fachgebiet-audiovisuelle-technik/team-fachgebiet-audiovisuelle-technik), Technische Universität Ilmenau  
 *2021 – 2024*
 
 ### Broadcast and Media System Engineer
-**Organization:** 3rd Production Center, China Central Television  
+**Organization:** 3rd Production Center, [China Central Television](https://english.cctv.com/)  
 *2014 – 2017*
 
 ---
@@ -25,11 +29,11 @@ title: CV
 ## Education
 
 ### M.Sc. in Media Technology
-**Institution:** Technische Universität Ilmenau, Germany  
+**Institution:** [Technische Universität Ilmenau](https://www.tu-ilmenau.de/), Germany  
 *Graduated: 2021*
 
 ### B.Eng. in Informatics Engineering
-**Institution:** Communication University of China, China  
+**Institution:** [Communication University of China](https://en.cuc.edu.cn/), China  
 *Graduated: 2014*
 
 ---
@@ -45,7 +49,3 @@ title: CV
 ## Publications & Projects
 
 For a detailed list of my publications and projects, please visit the [Publications]({{ site.baseurl }}/publications) and [Projects]({{ site.baseurl }}/projects) sections of my website.
-
----
-
-**Download my CV here:** [CV.pdf]({{ site.baseurl }}/assets/pdfs/CV.pdf)
